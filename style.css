@@ -1,0 +1,68 @@
+@import url('https://fonts.googleapis.com/css2?family=Indie+Flower&display=swap');
+
+body{text-align: center;
+    background-image: url(./images/secret-backgrnd-img.webp);
+    font-family: 'Indie Flower', cursive;
+    background-size: cover;
+    background-attachment: fixed;
+
+
+}
+
+nav h1 {
+    font-size: 4rem;
+}
+
+
+
+#change-button{
+    background-color: rgb(36, 36, 34);
+    height: 3rem;
+    width: 8rem;
+    font-size: large;
+    margin-top: 2rem;
+    color: white;
+}
+
+
+
+#para p{
+    font-size: 2.5rem;
+    text-align: center;
+    margin-right: 5rem;
+    font-weight: bolder;
+}
+
+#input-box{
+    opacity: 0.2;
+    font-size: 1.5rem;
+    font-weight: bolder;
+    height: 11rem;
+    width: 45rem;
+    
+    
+}
+
+#output-box{
+    border: 1px solid black;
+    box-sizing: border-box;
+    height: 11rem;
+    width: 45rem;
+    margin-top: 1rem;
+    text-align: center;
+    font-size: larger;
+    font-weight: bolder;
+    font-size: 3rem;
+    /* margin-left: 3rem; */
+    margin: 1rem auto;
+    
+}
+
+footer p {
+    font-weight: bold;
+    font-size: 1.2rem;
+}
+
+footer{
+    margin-top: 3rem;
+}
